@@ -1,5 +1,5 @@
-# Quiz-discuss
-If you have any question about the **Quiz**, you can open issue here:  
+# Quiz1-discuss
+If you have any question about the **Quiz1**, you can open issue here:  
 https://github.com/NCTU-CSE-Introduction-to-Algorithms/Quiz-discuss/issues
 
 ##Why we need to discuss here?
